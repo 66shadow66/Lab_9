@@ -1,5 +1,5 @@
 [build]
-language = "dotnet"
+builder = "dockerfile"
 
 [start]
 command = "dotnet BoardGameClub.ApiLab46.dll"
