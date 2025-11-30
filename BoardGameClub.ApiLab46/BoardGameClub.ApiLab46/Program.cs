@@ -7,6 +7,14 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(int.Parse(port));
+});
+
+// Swagger + JWT у Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -27,23 +35,21 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+// MongoDB
 builder.Services.AddSingleton<MongoDbContext>();
 
-// СТАРІ РЕПОЗИТОРІЇ ТА СЕРВІСИ (Member, Game, Session) — залишаються!
+// Repositories
 builder.Services.AddScoped<IMemberRepository, MemberRepository>();
 builder.Services.AddScoped<IGameRepository, GameRepository>();
 builder.Services.AddScoped<ISessionRepository, SessionRepository>();
+
+// Services
 builder.Services.AddScoped<IMemberService, MemberService>();
 builder.Services.AddScoped<IGameService, GameService>();
 builder.Services.AddScoped<ISessionService, SessionService>();
+builder.Services.AddScoped<ITokenService, TokenService>();
 
-// НОВІ — для ролей
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<TokenService>();
-
-builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("Jwt"));
-
+// JWT
 var jwt = builder.Configuration.GetSection("Jwt");
 var key = Encoding.UTF8.GetBytes(jwt["Secret"]!);
 
@@ -73,8 +79,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+
 app.Run();

@@ -1534,11 +1534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\labs\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+      "projectUniqueName": "C:\\Users\\hazar\\OneDrive\\Рабочий стол\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
       "projectName": "BoardGameClub.ApiLab46",
-      "projectPath": "C:\\labs\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+      "projectPath": "C:\\Users\\hazar\\OneDrive\\Рабочий стол\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
       "packagesPath": "C:\\Users\\hazar\\.nuget\\packages\\",
-      "outputPath": "C:\\labs\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\obj\\",
+      "outputPath": "C:\\Users\\hazar\\OneDrive\\Рабочий стол\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

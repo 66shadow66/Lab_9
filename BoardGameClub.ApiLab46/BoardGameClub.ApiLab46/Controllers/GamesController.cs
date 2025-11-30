@@ -15,18 +15,23 @@ public class GamesController : ControllerBase
 
     [HttpGet] public async Task<ActionResult<List<Game>>> GetAll() => Ok(await _service.GetAllAsync());
     [HttpGet("{id}")]
+
     public async Task<ActionResult<Game>> Get(string id)
     {
         var game = await _service.GetByIdAsync(id);
         return game == null ? NotFound() : Ok(game);
     }
     [HttpPost]
+
+
     public async Task<ActionResult> Create(Game game)
     {
         await _service.CreateAsync(game);
         return CreatedAtAction(nameof(Get), new { id = game.Id }, game);
     }
     [HttpPut("{id}")]
+
+
     public async Task<IActionResult> Update(string id, Game game)
     {
         if (id != game.Id) return BadRequest();
@@ -34,6 +39,8 @@ public class GamesController : ControllerBase
         return NoContent();
     }
     [HttpDelete("{id}")]
+
+
     public async Task<IActionResult> Delete(string id)
     {
         await _service.DeleteAsync(id);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B46flWXrUy0=",
+  "dgSpecHash": "oScdpPhljmg=",
   "success": true,
-  "projectFilePath": "C:\\labs\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+  "projectFilePath": "C:\\Users\\hazar\\OneDrive\\Рабочий стол\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hazar\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\hazar\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

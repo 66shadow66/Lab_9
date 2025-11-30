@@ -9,41 +9,31 @@ namespace BoardGameClub.ApiLab46.Controllers;
 [Route("api/auth")]
 public class AuthController : ControllerBase
 {
-    private readonly IUserService _userService;
-    private readonly TokenService _tokenService;
+    private readonly IMemberService _memberService;
+    private readonly ITokenService _tokenService;
 
-    public AuthController(IUserService userService, TokenService tokenService)
+    public AuthController(IMemberService memberService, ITokenService tokenService)
     {
-        _userService = userService;
+        _memberService = memberService;
         _tokenService = tokenService;
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register([FromBody] RegisterRequest req)
+    public async Task<IActionResult> Register(RegisterRequest req)
     {
-        if (await _userService.GetByEmailAsync(req.Email) != null)
-            return BadRequest("Користувач вже існує");
-
-        var user = new User
-        {
-            Name = req.Name,
-            Email = req.Email,
-            PasswordHash = BCrypt.Net.BCrypt.HashPassword(req.Password),
-            Role = req.Role == "Admin" ? "Admin" : "Member"
-        };
-
-        await _userService.CreateAsync(user);
-        return Ok(new { message = "Зареєстровано", role = user.Role });
+        var member = new Member { Name = req.Name, Email = req.Email, PasswordHash = req.Password };
+        await _memberService.CreateAsync(member);
+        return Ok();
     }
 
     [HttpPost("login")]
-    public async Task<IActionResult> Login([FromBody] LoginRequest req)
+    public async Task<IActionResult> Login(LoginRequest req)
     {
-        var user = await _userService.GetByEmailAsync(req.Email);
-        if (user == null || !BCrypt.Net.BCrypt.Verify(req.Password, user.PasswordHash))
-            return Unauthorized("Неправильно");
+        var member = await _memberService.GetByEmailAsync(req.Email);
+        if (member == null || !BCrypt.Net.BCrypt.Verify(req.Password, member.PasswordHash))
+            return Unauthorized();
 
-        var token = _tokenService.GenerateToken(user);
-        return Ok(new { token, user.Name, user.Role });
+        var token = _tokenService.GenerateToken(member);
+        return Ok(new { token });
     }
 }

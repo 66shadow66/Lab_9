@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoardGameClub.ApiLab46")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c28997f269d6da703789c0fb7c9a714ff83f8aff")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoardGameClub.ApiLab46")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoardGameClub.ApiLab46")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
