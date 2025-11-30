@@ -1,1 +1,6 @@
+[build]
+builder = "dotnet"
+
+[start]
+cmd = "dotnet BoardGameClub.ApiLab46.dll"
 
