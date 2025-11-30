@@ -1,113 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\",
+  "WorkspaceRootPath": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\boardgameclub.apilab46.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\boardgameclub.apilab46.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\models\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|c:\\users\\hazar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab9code\\lab_9\\boardgameclub.apilab46\\boardgameclub.apilab46\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}|BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj|solutionrelative:boardgameclub.apilab46\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -118,32 +122,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardGameClub.ApiLab46",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+              "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+              "RelativeToolTip": "BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T19:41:44.393Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Program.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Program.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Program.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Program.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T14:01:40.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\appsettings.json",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\appsettings.json",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\appsettings.json",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\appsettings.json",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -151,24 +168,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\GamesController.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Controllers\\GamesController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T14:10:44.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T14:10:44.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IMemberService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IMemberService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\IMemberService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IMemberService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\IMemberService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IGameService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IGameService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\IGameService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IGameService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\IGameService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\IGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Member.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Member.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Member.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Role.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Role.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\AuthController.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MembersController.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Controllers\\MembersController.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\MembersController.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Controllers\\MembersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SessionsController.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\SessionsController.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Controllers\\SessionsController.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Controllers\\SessionsController.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Controllers\\SessionsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MongoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Data\\MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Data\\MongoDbContext.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Data\\MongoDbContext.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Data\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Data\\MongoDbContext.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Data\\MongoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ISessionService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ISessionService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\ISessionService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ISessionService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\ISessionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,11 +288,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MemberService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\MemberService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\MemberService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\MemberService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\MemberService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GameService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\GameService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\GameService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\GameService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\GameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,11 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\TestController.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\TestController.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Models\\TestController.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\TestController.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\TestController.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Models\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,11 +324,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SessionService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\SessionService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\SessionService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\SessionService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\SessionService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\SessionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,11 +336,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SessionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\SessionRepository.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Repositories\\SessionRepository.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\SessionRepository.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Repositories\\SessionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,11 +348,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ISessionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\ISessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\ISessionRepository.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Repositories\\ISessionRepository.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\ISessionRepository.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\ISessionRepository.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Repositories\\ISessionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\MemberRepository.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Repositories\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\MemberRepository.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Repositories\\MemberRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +372,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IMemberRepository.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Repositories\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IMemberRepository.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Repositories\\IMemberRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,11 +384,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "GameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\GameRepository.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Repositories\\GameRepository.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\GameRepository.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Repositories\\GameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +396,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IGameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IGameRepository.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Repositories\\IGameRepository.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Repositories\\IGameRepository.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Repositories\\IGameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,11 +408,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\DTOs\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\DTOs\\LoginRequest.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\DTOs\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\DTOs\\LoginRequest.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\DTOs\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,11 +420,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Session.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Session.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Models\\Session.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Session.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Models\\Session.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,11 +432,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Game.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Models\\Game.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,11 +444,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ITokenService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\ITokenService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,11 +456,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "BoardGameClub.ApiLab46\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hazar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab9Code\\Lab_9\\BoardGameClub.ApiLab46\\BoardGameClub.ApiLab46\\Services\\TokenService.cs",
               "RelativeToolTip": "BoardGameClub.ApiLab46\\Services\\TokenService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
