@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGameClub.ApiLab46", "BoardGameClub.ApiLab46\BoardGameClub.ApiLab46.csproj", "{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572308A1-5A75-40BC-B87A-E8F4D2EC40A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB70FBD-F765-40C6-97A9-B7B617BA4BF3}
+	EndGlobalSection
+EndGlobal
